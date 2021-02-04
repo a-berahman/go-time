@@ -1,6 +1,6 @@
 package mobileNet
 
-import "github.com/a-berahman/go-time/01_solid/01_single-responsibility/drone"
+import "github.com/a-berahman/go-time/01_solid/01_SRP/drone"
 
 // MobileNet performs target detection for drones using the
 // SSD MobileNet V1 NN.
