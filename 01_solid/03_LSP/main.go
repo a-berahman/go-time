@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/a-berahman/go-time/01_solid/03_liskov/adder"
+	"github.com/a-berahman/go-time/01_solid/03_LSP/adder"
 )
 
 type Adder interface {
